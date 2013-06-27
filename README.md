@@ -10,32 +10,32 @@ Mantenedor e instrutor:
 Tarefas:
 -----------
 * Hello World
- ** Hello 1
- ** Hello 2
- ** Hello 3
- ** Hello 4
+	** Hello 1
+	** Hello 2
+	** Hello 3
+	** Hello 4
 
 * Types
- ** conversão com int
- ** conversão com float
- ** conversão desafio (K -> C e K -> F)
- ** Formatação de valores (conversão com float C -> F)
- ** Vetores - Armazenar lista em vetores
- ** Lei de ohm
+	** conversão com int
+	** conversão com float
+	** conversão desafio (K -> C e K -> F)
+	** Formatação de valores (conversão com float C -> F)
+	** Vetores - Armazenar lista em vetores
+	** Lei de ohm
 
- * Fluxo de dados
-  ** Questionarios - fluxograma
-  ** maximo e minimos de 2 numeros - operador ternario - fluxograma
-  ** mdc - fluxograma
-  ** teste primo
-  ** While (Demonstrar loop infinito e depois tirar o erro)
-  ** Algoritmo de fatorial e fibonacci
-  ** Ordenar lista
-  ** bubble sort
+* Fluxo de dados
+	** Questionarios - fluxograma
+	** maximo e minimos de 2 numeros - operador ternario - fluxograma
+	** mdc - fluxograma
+	** teste primo
+	** While (Demonstrar loop infinito e depois tirar o erro)
+	** Algoritmo de fatorial e fibonacci
+	** Ordenar lista
+	** bubble sort
 
--- Funções
- -- calculadora
+*Funções
+	** Calculadora
 
--- Estrutura
- -- Lista de Chamada - listar em ordem alfabetica - 10 alunos
+*Estrutura
+	** Lista de Chamada - listar em ordem alfabetica - 10 alunos
 
