@@ -3,7 +3,7 @@ iv-see-ccpp-repo
 
 Repositorio do minicurso de C/C++ realizado na IV Semana de Engenharia Elétrica da Universidade do Estado do Rio de Janeiro.
 
-Mantenedor e instrutor:
+Instrutor:
 -----------
 * Renan Prata
 
