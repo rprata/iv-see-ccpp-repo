@@ -2,6 +2,7 @@ CC=gcc
 CFLAGS=-Wall -std=gnu99
 
 all:
+	$(CC) $(CFLAGS) -o flowcontrol/bubble_sort flowcontrol/bubble_sort.c
 	$(CC) $(CFLAGS) -o flowcontrol/counter2 flowcontrol/counter2.c
 	$(CC) $(CFLAGS) -o flowcontrol/counter3 flowcontrol/counter3.c
 	$(CC) $(CFLAGS) -o flowcontrol/fatorial flowcontrol/fatorial.c
@@ -30,6 +31,7 @@ all:
 	$(CC) $(CFLAGS) -o types/mdc types/mdc.c
 
 clean:
+	rm flowcontrol/bubble_sort.c
 	rm flowcontrol/counter2
 	rm flowcontrol/counter3
 	rm flowcontrol/fatorial
