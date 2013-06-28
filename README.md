@@ -2,6 +2,7 @@ iv-see-ccpp-repo
 ================
 
 Repositorio do minicurso de C/C++ realizado na IV Semana de Engenharia Elétrica da Universidade do Estado do Rio de Janeiro.
+Para compilar todos os fontes é necessário apenas dar 'make all' na linha de comando. Peço desculpas por não desenvolver algo mais sofisticado em relação a makefile e os interessados em melhorar, podem mandar seus patchs para mim. 
 
 Instrutor:
 -----------
